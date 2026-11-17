@@ -1,8 +1,6 @@
 # hermes-skills
 
-Hermes Agent skill tap by Agam Gupta (CSCI 599, Assignment 3). Skills were written with help from
-Claude Opus 5.5.
-
+Hermes Agent skill tap by Agam Gupta (CSCI 599, Assignment 3).
 | Skill | What it does | Needs |
 |---|---|---|
 | [`weather-brief`](skills/weather-brief/SKILL.md) | Weather now / today / tomorrow for any place, plus what to bring | Python 3, internet. No API key |
